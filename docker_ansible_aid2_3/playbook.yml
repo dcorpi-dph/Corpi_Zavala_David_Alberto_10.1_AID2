@@ -1,7 +1,0 @@
----
-- name:
-  hosts: all
-  tasks:
-    - name: Imprimir un mensaje en la consola
-      debug:
-        msg: "Hello from Ansible"
